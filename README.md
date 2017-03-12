@@ -7,7 +7,18 @@ All Feedback is greatly appriciated.
 
 == Changelog ==
 
-Version 1.0 
+Version 1.0.1
+
+//Fixes
+- new Iron Ore mow appears in the Building Blocks tab
+- new Gold Ore mow appears in the Building Blocks tab
+- new Diamond Ore mow appears in the Building Blocks tab
+- Pre-Enchanted Iron now appears in the Materials tab
+- Pre-Enchanted Gold now appears in the Materials tab
+- Pre-Enchanted Diamond now appears in the Materials tab
+
+Version 1.0
+
 //Blocks
 - Added the new Iron ore
 - Added the new Gold ore
