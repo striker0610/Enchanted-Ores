@@ -7,6 +7,10 @@ All Feedback is greatly appriciated.
 
 == Changelog ==
 
+Version 1.0.2 (3/15/2017)
+//fixes
+- Fixed an issue where all tools and weapons displayed twice in the creative menu
+
 Version 1.0.1 (3/12/2017)
 
 //Fixes
